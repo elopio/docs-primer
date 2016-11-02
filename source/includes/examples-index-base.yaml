@@ -11,7 +11,7 @@ pre: |
   ``restaurants`` collection.
 ---
 title:
-  text: Create a compound index.
+  text: Create a compound index
   level: 2
 ref: _create-compound-index
 pre: |
